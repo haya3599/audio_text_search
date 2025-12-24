@@ -1,1 +1,2 @@
+the system detects speach erors in noisy enviroments
 
